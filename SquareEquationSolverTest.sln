@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquareEquationSolverTest", "SquareEquationSolverTest\SquareEquationSolverTest.csproj", "{EEE264F1-8A27-4008-AAAB-CDEAE1AB7FF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject", "TestProject\TestProject.csproj", "{3C5A05E9-F81F-4FC6-AC10-28EB609993F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEE264F1-8A27-4008-AAAB-CDEAE1AB7FF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEE264F1-8A27-4008-AAAB-CDEAE1AB7FF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEE264F1-8A27-4008-AAAB-CDEAE1AB7FF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEE264F1-8A27-4008-AAAB-CDEAE1AB7FF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C5A05E9-F81F-4FC6-AC10-28EB609993F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C5A05E9-F81F-4FC6-AC10-28EB609993F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C5A05E9-F81F-4FC6-AC10-28EB609993F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C5A05E9-F81F-4FC6-AC10-28EB609993F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6DF2C6F1-A3E4-4614-8F17-EBFF383A751F}
+	EndGlobalSection
+EndGlobal
