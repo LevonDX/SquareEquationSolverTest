@@ -1,11 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Xml;
-
-namespace SquareEquationSolverTest
+﻿namespace SquareEquationSolverTest
 {
     /// <summary>
     /// ax^2 + bx + c = 0
